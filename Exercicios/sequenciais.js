@@ -5,7 +5,7 @@
     let idade = 10; idade = "dez"
         
 */
-
+ 
 function calcularExe1() {
     // obter os dados informados no formulário
     let numero1 = Number(document.getElementById("numero1").value);
